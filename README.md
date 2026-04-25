@@ -2,4 +2,5 @@
 
 #Hi
 soy jose, estudiante de ing electronica 
-[electronica] (https://www.electropolis.es/blog/la-electronica-para-que-nos-sirve/)
+
+(https://www.electropolis.es/media/magefan_blog/2017/09/Psychiatric-Disorder-1.jpg)
