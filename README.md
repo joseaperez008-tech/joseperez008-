@@ -1,7 +1,7 @@
 # joseperez008-
 
 # Hi
-## soy jose, estudiante de ing electronica 
+## Soy jose, estudiante de ing electronica 
 
 Me encuentro aprendiendo tecnologias de :
 
@@ -10,4 +10,30 @@ Me encuentro aprendiendo tecnologias de :
 - Node.js
 - Python
 
-![electro](https://www.electropolis.es/media/magefan_blog/2017/09/Psychiatric-Disorder-1.jpg)
+
+<img src=" https://www.electropolis.es/media/magefan_blog/2017/09/Psychiatric-Disorder-1.jpg"
+width="200">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
