@@ -6,9 +6,10 @@
 Me encuentro aprendiendo tecnologias de :
 
 - JavaScript
-- Angular
-- Node.js
+- Arduino
+- C++
 - Python
+
 
 
 [Mi GitHub](https://github.com)
