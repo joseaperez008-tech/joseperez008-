@@ -1,6 +1,6 @@
 # joseperez008-
 
-# Hi
+# Hola
 ## Soy jose, estudiante de ing electronica 
 
 Me encuentro aprendiendo tecnologias de :
